@@ -65,5 +65,25 @@
       "price": 5000,
       "imageUrl": "https://akcdn.detik.net.id/visual/2016/06/01/1ca71fb4-3c48-4fb2-9c3f-15e13ac6d0b7_169.jpg?w=650"
     }
+  ],
+  "transaction": [
+    {
+      "id": "INV-4367",
+      "nik": "111111222222",
+      "date": 2020-11-05 00:00:00,
+      "total": 13000,
+      "items": [
+        {
+          "item": {
+            "id": "1",
+            "name": "Coca Cola Can 350ml",
+            "category": "drink",
+            "price": 6500,
+            "imageUrl": "https://cdn-2.tstatic.net/pontianak/foto/bank/images/coca-cola-stop-iklan-ke-facebook-dan-instagram.jpg"
+          },
+          "amount": 2
+        }
+      ]
+    },
   ]
 }
