@@ -5,15 +5,34 @@
       "name": "Bob Ross",
       "image": "https://www.biography.com/.image/t_share/MTIwNjA4NjMzOTU5NTgxMTk2/bob-ross-9464216-1-402.jpg",
       "pin": "111222",
-      "cart": null
+      "cart": null,
+      "search": [
+        "Burger",
+        "Coca",
+        "Bread"
+      ]
     },
     {
       "nik": "333333444444",
       "name": "Byan Beynolds",
       "image": "https://cdns.klimg.com/resized/476x/p/deadpool-bbx1.jpg",
       "pin": "333444",
-      "cart": null
+      "cart": null,    
+      "search": [
+        "Afkafeieao",
+        "Sari",
+        "Sugg"
+      ]
     }
+  ],
+  "categories": [
+    "All Products",
+    "Bread",
+    "Drink",
+    "Fast Food",
+    "Ice Cream",
+    "Lunch",
+    "Snack"
   ],
   "product": [
     {
