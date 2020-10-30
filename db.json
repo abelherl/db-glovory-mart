@@ -7,9 +7,9 @@
       "pin": "111222",
       "cart": null,
       "search": [
-        "Burger",
-        "Coca",
-        "Bread"
+        "burger",
+        "coca",
+        "bread"
       ]
     },
     {
@@ -19,9 +19,9 @@
       "pin": "333444",
       "cart": null,    
       "search": [
-        "Afkafeieao",
-        "Sari",
-        "Sugg"
+        "afkafeieao",
+        "sari",
+        "sugg"
       ]
     }
   ],
